@@ -1,0 +1,30 @@
+name: one 
+pop_server: pop.one.com 
+user: curt.furumark@curtfurumark.se 
+pwd: bettie12p 
+port: 110 
+#
+name: one 
+pop_server: pop.one.com 
+user: curt.furumark@curtfurumark.se 
+pwd: bettie12p 
+port: 110 
+#
+name: one 
+pop_server: pop.one.com 
+user: admin@curtfurumark.se 
+pwd: nalle12h 
+port: 110 
+#
+name: one 
+pop_server: pop.one.com 
+user: admin@curtfurumark.se 
+pwd: nalle12h 
+port: 110 
+#
+name: one.admin 
+pop_server: pop.one.com 
+user: admin@curtfurumark.se 
+pwd: nalle12h 
+port: 110 
+#
